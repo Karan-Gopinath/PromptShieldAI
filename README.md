@@ -1,6 +1,6 @@
 # PromptShield: Defending LLMs Against Election-Specific Jailbreak Attacks
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-Model-orange)](https://huggingface.co/yourusername/promptshield-lora) [![Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/promptshield/blob/main/promptshield_colab.ipynb](https://colab.research.google.com/drive/11-wi8BXvh01jciaUkXWIZ-Qp7NA5JJjs?usp=sharing)) [![arXiv](https://img.shields.io/badge/arXiv-2510.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2510.XXXXX)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-Model-orange)](https://huggingface.co/yourusername/promptshield-lora) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11-wi8BXvh01jciaUkXWIZ-Qp7NA5JJjs?usp=sharing) [![arXiv](https://img.shields.io/badge/arXiv-2510.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2510.XXXXX)
 
 > **75% reduction in jailbreak Attack Success Rate (ASR)** — from **72% → 18%** on **ElectionJailBench**  
 > Trained in **<1 hour** on **free Colab T4 GPU**  
@@ -39,7 +39,7 @@ Built on **Unsloth** + **PEFT**, it uses **supervised fine-tuning (SFT)** on **E
 
 ### 1. Run in Google Colab (Recommended)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/promptshield/blob/main/promptshield_colab.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11-wi8BXvh01jciaUkXWIZ-Qp7NA5JJjs?usp=sharing)
 
 - **Runtime**: T4 GPU (free)
 - **Train**: ~45 minutes
